@@ -1,3 +1,3 @@
 ﻿module FirstProgram
 
-Types.start()
+Symbolic.start()
