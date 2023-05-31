@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharplearning", "fsharplearning.fsproj", "{D6D89E40-5595-471B-AC60-ED635DA35E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D89E40-5595-471B-AC60-ED635DA35E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D89E40-5595-471B-AC60-ED635DA35E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D89E40-5595-471B-AC60-ED635DA35E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D89E40-5595-471B-AC60-ED635DA35E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FA2DAA-4A8A-466B-BAC5-3E672F3D860D}
+	EndGlobalSection
+EndGlobal
